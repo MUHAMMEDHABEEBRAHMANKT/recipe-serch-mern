@@ -1,6 +1,9 @@
 # Build a Recipe Finder for Your Mom | React & TailwindCSS
 
 ![Demo App](/public/Screenshot_29.png)
+<img src="/public/1.jpg" width="300" />
+<img src="/public/2.jpg" width="300" />
+<img src="/public/3.jpg" width="300" />
 
 [Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
 
@@ -36,4 +39,4 @@ npm run dev
 ### credits
 
 [Asa Programmer](https://www.youtube.com/@asaprogrammer_)
-"# recipe-serch-mern" 
+"# recipe-serch-mern"
